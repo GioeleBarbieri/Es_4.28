@@ -1,0 +1,3 @@
+C:/Users/gioel/CLionProjects/esercizio4.28/cmake-build-debug/CMakeFiles/esercizio4_28.dir
+C:/Users/gioel/CLionProjects/esercizio4.28/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gioel/CLionProjects/esercizio4.28/cmake-build-debug/CMakeFiles/rebuild_cache.dir
